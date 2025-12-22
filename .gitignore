@@ -1,4 +1,15 @@
-data/
+# Chặn thư mục cụ thể
+bad_images/
+
+# CHẶN TOÀN BỘ FILE ẢNH (Bất kể nằm ở đâu)
+*.jpg
+*.JPG
+*.png
+*.PNG
+*.jpeg
+
+# Các file khác
 .ipynb_checkpoints
 __pycache__
 *.h5
+*.keras

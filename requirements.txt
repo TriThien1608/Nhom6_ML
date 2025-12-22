@@ -1,5 +1,7 @@
+tensorflow
 numpy
 pandas
-tensorflow
 matplotlib
+seaborn
+scikit-learn
 jupyter

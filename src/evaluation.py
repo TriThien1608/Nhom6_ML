@@ -92,9 +92,9 @@ def evaluate_model(model, test_ds, class_names):
     plt.xticks(rotation=90)
     plt.show()
 
-# ==========================================
+
 # 4. DEMO TRỰC QUAN
-# ==========================================
+
 def run_demo(model, class_names, demo_folder_path=None):
     """
     Chạy demo trực quan:
